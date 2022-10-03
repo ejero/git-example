@@ -1,2 +1,3 @@
 git testing text file
 adding a line to the text file
+Going to add another line
